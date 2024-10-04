@@ -20,7 +20,7 @@ export function Blog() {
   return (
     <div style={{ padding: 8 }}>
       <CreatePost />
-      <br />
+      <br /> 
       <hr />
       Filter by:
       <PostFilter

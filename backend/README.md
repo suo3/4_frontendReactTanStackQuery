@@ -1,4 +1,3 @@
-# Modern Full-Stack React Projects / Chapter 4 / Backend
 
 _Integrating a Frontend Using React and TanStack Query_
 
@@ -12,8 +11,6 @@ Please install the following, if you do not already have them installed:
 - Docker v24.0.6
 - Docker Desktop v4.25.2
 - MongoDB Shell v2.1.0
-
-The versions listed above are the ones used in the book. While installing a newer version should not be an issue, please note that certain steps might work differently on a newer version. If you are having an issue with the code and steps provided in this book, please try using the mentioned versions.
 
 ## Install
 
